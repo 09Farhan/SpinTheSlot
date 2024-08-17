@@ -1,2 +1,2 @@
-# WebDev
-This repo includes all the html, css, js, and all the web dev projects
+# Spin The Slot
+Spin the slot gambling game using javaScript
